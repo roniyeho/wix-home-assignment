@@ -34,6 +34,8 @@ This project is an ETL (Extract, Transform, Load) pipeline designed to fetch sto
 
 ## Running the ETL Process
 To execute the ETL process, run the following command:
+
+**Modify the parameters in `config.py` as needed before running the ETL process.**
 ```bash
 python ETL_stock.py
 ```
