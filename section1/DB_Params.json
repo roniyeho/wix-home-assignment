@@ -1,0 +1,8 @@
+{
+    "SQL" :{
+            "name": "h-MacBook-Pro-sl-Din.local",
+            "user": "etl_stock",
+            "password": "123456",
+            "port": "3306"
+        }
+}
